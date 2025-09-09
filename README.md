@@ -25,7 +25,7 @@ O desenvolvimento está dividido em duas frentes principais:
     -   Extração e validação automática de dados (aluno, empresa, horários, etc.).
     -   Geração de um checklist de conformidade, apontando inconsistências.
 
--   **Épico 2: Facilitador de Cursos de Extensão (Baixa Prioridade)**
+-   **Épico 2: Facilitador de Cursos de Extensão (Menor Prioridade)**
     -   Criação de uma base de dados centralizada para consulta de cursos.
     -   Ferramenta para dar autonomia aos professores no processo de cadastro de novos cursos de extensão.
 
