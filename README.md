@@ -36,13 +36,10 @@ O desenvolvimento está dividido em duas frentes principais:
 
 ## 📄 Landing Page
 
-A landing page de apresentação do projeto, que detalha os objetivos, o demandante e a equipe, está localizada na pasta `/landing-page` deste repositório.
+A landing page de apresentação do projeto, que detalha os objetivos, o demandante e a equipe, está localizada na URL:
+https://coordenadoria-extensao.simplifica.gru.br/
 
-**Para visualizar:**
-1.  Navegue até a pasta `/landing-page`.
-2.  Abra o arquivo `index.html` em seu navegador.
-
-> **Nota:** Lembre-se de atualizar o link do botão "Ver Repositório no GitHub" no arquivo `index.html` para o URL do seu repositório quando ele estiver no ar.
+Os arquivos se encontram na raiz desse repositório, em sincronia com a hospedagem disponibilizada pelo professor
 
 ## 👥 Equipe
 
